@@ -230,7 +230,7 @@
         android:fontFamily="casual"
         android:onClick="change"
         android:padding="10dp"
-        android:text="Screen 1   -->"
+        android:text="Screen 2   -->"
         android:textAlignment="viewEnd"
         android:textColor="@color/blanc"
         android:textStyle="bold" />
